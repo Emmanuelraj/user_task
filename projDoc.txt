@@ -1,0 +1,16 @@
+
+sample input : localhost:3000/user-task/save
+
+
+{ 
+
+	"username":"imman",
+	"tasksList":[{
+
+		"taskDesc":"taskdesc1",
+		 "taskName":"task1",
+		"taskStatus":"done"
+		
+	}]	
+}
+
